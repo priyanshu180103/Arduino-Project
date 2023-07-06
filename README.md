@@ -1,5 +1,5 @@
 # Arduino-Project
-Here I have shared one of my hardware project -"**Air quality checking with Android Application**" which I have done using** Arduino**. 
+Here I have shared one of my hardware project -"**Air quality checking with Android Application**" which I have done using **Arduino**. 
 
 I have done this project in the 2nd Year of my College as a BCT project.
 
